@@ -5,7 +5,7 @@
 # Iniciando o Git
 
 Usuario@Usuario-PC MINGW32 ~
-$ git config --global user.name "¡tila de Freitas"
+$ git config --global user.name "√Åtila de Freitas"
 
 Usuario@Usuario-PC MINGW32 ~
 $ git config --global user.email "atilafreitasjr@gmail.com"
@@ -13,7 +13,7 @@ $ git config --global user.email "atilafreitasjr@gmail.com"
 Usuario@Usuario-PC MINGW32 ~
 $ git config --global color.ui true
 
-# Criando repositÛrio
+# Criando reposit√≥rio
 
 Usuario@Usuario-PC MINGW32 /d/aulagit
 $ git init
@@ -55,12 +55,12 @@ $ git add README.md
 
 $ git commit
 
-Adicionando arquivo de README com as principais instruÁıes que utilizei
+Adicionando arquivo de README com as principais instru√ß√µes que utilizei
 para fazer o push.
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
-# On branch master
-# Changes to be committed:
-#       new file:   README.md
+Please enter the commit message for your changes. Lines starting
+with '#' will be ignored, and an empty message aborts the commit.
+On branch master
+Changes to be committed:
+     new file:   README.md
 
 
