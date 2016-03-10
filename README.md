@@ -53,5 +53,14 @@ Usuario@Usuario-PC MINGW32 /d/aulagit (master)
 
 $ git add README.md
 
+$ git commit
+
+Adicionando arquivo de README com as principais instruções que utilizei
+para fazer o push.
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#       new file:   README.md
 
 
